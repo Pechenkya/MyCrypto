@@ -1,5 +1,1 @@
-﻿  Crypt.cpp
-  Cryptor.cpp
-d:\progs\visualstudioprojects\crypt\crypt\crypt\cryptor.cpp(39): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Создание кода...
-  Crypt.vcxproj -> D:\Progs\VisualStudioProjects\Crypt\Crypt\Debug\Crypt.exe
+﻿  Crypt.vcxproj -> D:\Progs\VisualStudioProjects\Crypt\MyCrypto\Crypt\Debug\Crypt.exe
